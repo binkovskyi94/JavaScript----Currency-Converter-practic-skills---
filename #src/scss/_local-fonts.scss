@@ -1,0 +1,10 @@
+@font-face {
+    font-family: var(--base-font);
+    font-weight: var(--global--normal--FontWeight);
+    font-style: normal;
+    src: local('Quicksand-Regular'),
+        url('../fonts/Quicksand-Regular.woff2') format('woff2'),
+        url('../fonts/Quicksand-Regular.woff') format('woff'),
+        url('../fonts/Quicksand-Regular.eot') format('embedded-opentype');
+    font-display: swap;
+}
